@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fashionhub-app.github.io/legal/sitemap.xml
